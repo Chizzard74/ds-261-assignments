@@ -1,1 +1,1 @@
-from data_structures.deque import Deque
+from data_structures.deque.implementation import Deque

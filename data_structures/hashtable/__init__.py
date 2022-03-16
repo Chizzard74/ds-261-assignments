@@ -1,1 +1,1 @@
-from data_structures.hashtable.implementation import Hashtable
+from data_structures.hashtable.implementation import HashTable

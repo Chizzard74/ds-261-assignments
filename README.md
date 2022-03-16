@@ -10,5 +10,4 @@ All data structures come with a corresponding suite of tests, mostly all of whic
 
 1. [Double Linked List](./data_structures/linked_list/implementation.py)
 2. [Stack](./data_structures/stack/implementation.py)
-3. [HashTable](./data_structures/hashtable/implementation.py)
-4. [Deque](./data_structures/deque.implementation.py)
+3. [Deque](./data_structures/deque.implementation.py)

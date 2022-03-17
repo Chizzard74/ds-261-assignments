@@ -12,3 +12,4 @@ All data structures come with a corresponding suite of tests, mostly all of whic
 2. [Stack](./data_structures/stack/implementation.py)
 3. [Queue](./data_structures/queue/implementation.py)
 4. [HashTable](./data_structures/hashtable/implementation.py)
+5. [Deque](./data_structures/deque/implementation.py)

@@ -14,4 +14,5 @@ All data structures come with a corresponding suite of tests, mostly all of whic
 4. [HashTable](./data_structures/hashtable/implementation.py)
 5. [Deque](./data_structures/deque/implementation.py)
 6. [Binary Search Tree](./data_structures/bst/implementation.py)
+7. [AVL Tree](./data_structures/avl/implementation.py)
 

@@ -1,7 +1,4 @@
-# DO NOT MODIFY THIS FILE
-# For credit, uncomment one test at a time and make sure to commit and push after each test passes 
-# with a commit message that specifies the test name that passed.
-# Run me via: python3 -m unittest test_linked_list or py -m unittest test_linked_list
+#Test created by OSU 261 DS
 
 import unittest
 import time

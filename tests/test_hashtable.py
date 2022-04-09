@@ -1,6 +1,4 @@
-# DO NOT MODIFY THE TESTS IN THIS FILE
-# Run me via: python3 -m unittest test_hash_table or
-# py -m unittest test_hash_table
+#Test created by OSU 261 DS
 
 import unittest
 import time

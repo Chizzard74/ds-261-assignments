@@ -1,5 +1,4 @@
 # Deque: A deque.
-# Your implementation should pass the tests in test_deque.py.
 # Max Halpern
 
 import llist

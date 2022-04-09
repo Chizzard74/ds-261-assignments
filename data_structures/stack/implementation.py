@@ -1,5 +1,4 @@
-# Stack: A stack.
-# Your implementation should pass the tests in stack.py.
+# Stack: A stack
 # Max Halpern
 
 class Stack:    

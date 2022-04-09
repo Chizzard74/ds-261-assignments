@@ -1,5 +1,4 @@
-# DO NOT MODIFY THIS FILE
-# Run me via: python3 -m unittest test_queue
+#Test created by OSU 261 DS
 
 import unittest
 import time

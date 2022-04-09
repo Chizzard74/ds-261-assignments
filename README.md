@@ -1,7 +1,7 @@
 # ds-261-assignments
 My implementations of data structures for Oregon State University class DS261
 
-All data structures come with a corresponding suite of tests, mostly all of which were created by the DS261 course to teach TDD.
+All data structures come with a corresponding suite of tests, all of which were created by the DS261 course to teach TDD.
 
 ![](https://github.com/Chizzard74/ds-261-assignments/workflows/Unit%20Tests/badge.svg)
 
